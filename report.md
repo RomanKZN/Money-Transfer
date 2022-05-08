@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Приложение  Money Transfer при пополнении выводит не верную сумму ](https://github.com/RomanKZN/Money-Transfer/issues/1#issue-1013172862)
+* [Некорректный расчет итогового баланса после перевода ](https://github.com/RomanKZN/Money-Transfer/issues/1#issue-1013172862)
 
 ## Описание процесса тестирования
 
